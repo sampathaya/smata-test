@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Booty & Abs",
+    "Verticals": "Health & Fitness",
+    "State": "active"
+  },
+  {
+    "Id": 2,
+    "Name": "Full Body",
+    "Verticals": "Health & Fitness",
+    "State": "active"
+  },
+  {
+    "Id": 3,
+    "Name": "Advertising",
+    "Verticals": "Business",
+    "State": "active"
+  },
+  {
+    "Id": 4,
+    "Name": "Writing",
+    "Verticals": "Business",
+    "State": "active"
+  },
+  {
+    "Id": 5,
+    "Name": "Singing",
+    "Verticals": "Music",
+    "State": "active"
+  },
+  {
+    "Id": 6,
+    "Name": "Music Fundamentals",
+    "Verticals": "Music",
+    "State": "active"
+  }
+]
